@@ -1,0 +1,30 @@
+# Erzeugte Dateien
+/build/
+/out/
+/reports/
+/logs/
+/output/
+/tmp/
+*.class
+*.log
+*.lck
+sources.txt
+__pycache__/
+*.py[cod]
+
+# Lokal bezogene PSPLIB-Daten, Downloadarchive und erzeugte Referenzen
+*.[sS][mM]
+*.zip
+*.tgz
+*.tar.gz
+/data/reference/psplib/inspection.json
+/data/reference/psplib/j601_1-inspection.json
+/tests/resources/reference/j601_1-aktivitaeten.csv
+/tests/resources/reference/j601_1-ergebnisse.json
+
+# Lokale Entwicklungsumgebung
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
