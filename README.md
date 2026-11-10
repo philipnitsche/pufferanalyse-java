@@ -68,4 +68,4 @@ Die Python-Helfer unter `data/reference/psplib` sind für den Java-Lauf nicht n�
 | `export_gantt_images.py` | Nach `run_example.py`; benötigt Pillow und Windows-Schriften. |
 
 Lokal ergänzte PSPLIB-Dateien und erzeugte Referenzen sind über `.gitignore`
-ausgeschlossen. Eine Lizenz für den eigenen Code ist noch festzulegen.
+ausgeschlossen.
